@@ -1,8 +1,0 @@
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\Restclient.Form1.resources
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\Restclient.Properties.Resources.resources
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\Restclient.csproj.GenerateResource.Cache
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\bin\Debug\Restclient.exe
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\bin\Debug\Restclient.pdb
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\Restclient.exe
-C:\Documents and Settings\innovation\My Documents\Visual Studio 2005\Projects\Restclient\Restclient\obj\Debug\Restclient.pdb
